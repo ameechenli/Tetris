@@ -5,7 +5,7 @@
 #include <stdio.h>
 #include <winbgim.h>
 #include <conio2.h>
-#include <time.h>   //用在随机数中srand（）产生种子 
+#include <time.h>   //
 #include <stdlib.h>
 
 #define chang  30
